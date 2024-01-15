@@ -1,3 +1,4 @@
+/*
 package com.popty.global.config;
 
 import org.springframework.context.annotation.Configuration;
@@ -19,3 +20,4 @@ public class WebConfig implements WebMvcConfigurer {
     }
 
 }
+*/
